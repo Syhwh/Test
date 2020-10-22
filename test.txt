@@ -1,3 +1,5 @@
 Insert new test
 
 this is a line to be save
+
+this line is from branch A
