@@ -1,1 +1,3 @@
 add file branchB
+
+Add second line to file in branch B
