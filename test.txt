@@ -8,3 +8,5 @@ Second line from branch A
 
 
 New line in master
+
+Line from branch B
