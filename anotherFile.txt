@@ -1,3 +1,5 @@
 first another file
 
 second line in master
+
+third line
